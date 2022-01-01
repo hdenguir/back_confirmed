@@ -1,0 +1,9 @@
+{
+  "name": "backend_confirmed",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "stream-json": "^1.7.3"
+  }
+}
